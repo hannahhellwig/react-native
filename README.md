@@ -6,12 +6,12 @@ of a mobile phone. For instance: camera, gyro, accelerometer, microphone, etc.
 
 ## How to complete this assignment
 
-Download the expo app on your phone and then read the expo guide at https://expo.io/learn to start a React Native project with Expo.
+* Download the Expo app on your phone and then read the expo guide at https://expo.io/learn to start a React Native project with Expo.
 
-Read the React Navigation guide at https://reactnavigation.org/docs/en/hello-react-navigation.html to set up
+* Read the React Navigation guide at https://reactnavigation.org/docs/en/hello-react-navigation.html to set up
 navigation between pages in your app.
 
-Discover React components created by Expo at https://docs.expo.io/versions/latest/
+* Discover React components created by Expo at https://docs.expo.io/versions/latest/
 and add them to your pages.
 
 
@@ -60,4 +60,4 @@ Add one more page which displays another component from Expo.
 #### Second stretch goal
 Use tab-navigation to navigate between your pages. Use the expo-cli in terminal
 to generate a new project with the tabs-template to look at a working example
-of tab-navigation. 
+of tab-navigation.
