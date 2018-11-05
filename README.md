@@ -1,8 +1,8 @@
 # Sprint 5 – React Native app
 
-Todays assignment is to set up a mobile app that displays two pages and
-a main menu. The pages should each display functionality that uses the sensors
-of a mobile phone. For instance: camera, gyro, accelerometer, microphone, etc.
+Todays assignment is to set up a mobile app that displays a page and
+a main menu. The page should display functionality that uses the sensors
+of a mobile phone. For instance: camera, gyro, accelerometer, etc.
 
 ## How to complete this assignment
 
@@ -12,7 +12,14 @@ of a mobile phone. For instance: camera, gyro, accelerometer, microphone, etc.
 navigation between pages in your app.
 
 * Discover React components created by Expo at https://docs.expo.io/versions/latest/
-and add them to your pages.
+and add them to your pages. Scroll down the menu on the left of the page and look for
+SDK API REFERENCE. There you will see all the components.
+
+* Recommended components (Look at the examples of how to use them):
+- [Camera](https://docs.expo.io/versions/v31.0.0/sdk/camera)
+- [Accelerometer](https://docs.expo.io/versions/v31.0.0/sdk/accelerometer)
+- [Gyroscope](https://docs.expo.io/versions/v31.0.0/sdk/gyroscope)
+
 
 
 ### Project setup
