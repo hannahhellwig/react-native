@@ -15,7 +15,7 @@ navigation between pages in your app.
 and add them to your pages. Scroll down the menu on the left of the page and look for
 SDK API REFERENCE. There you will see all the components.
 
-* Recommended components (Look at the examples of how to use them):
+### Recommended components (Look at the examples of how to use them):
 - [Camera](https://docs.expo.io/versions/v31.0.0/sdk/camera)
 - [Accelerometer](https://docs.expo.io/versions/v31.0.0/sdk/accelerometer)
 - [Gyroscope](https://docs.expo.io/versions/v31.0.0/sdk/gyroscope)
