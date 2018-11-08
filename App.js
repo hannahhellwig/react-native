@@ -1,7 +1,8 @@
 import React from 'react';
-import { createStackNavigator } from 'react-navigation';
+import { createStackNavigator, createBottomTabNavigator } from 'react-navigation';
 import HomeScreen from './HomeScreen'
 import DetailsScreen from './DetailsScreen'
+import Camera from './Camera'
 
 const RootStack = createStackNavigator({
   Home: {
@@ -9,6 +10,9 @@ const RootStack = createStackNavigator({
   },
   Details: {
     screen: DetailsScreen
+  },
+  Camera: {
+    screen: Camera
   },
 });
 

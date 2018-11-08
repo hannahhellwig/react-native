@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "my-new-project",
+    "name": "assignment-react-native",
     "description": "This project is really great.",
-    "slug": "my-new-project",
+    "slug": "assignment-react-native",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
